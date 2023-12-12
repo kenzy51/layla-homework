@@ -1,0 +1,146 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.bg-orange {
+    background-color: #F05A00;
+}
+
+.text-orange {
+    color: #F05A00;
+}
+
+.btn-user {
+    height: 60px;
+    font-size: 30px;
+}
+
+.btn-user:hover {
+    background-color: #e05702;
+    color: #fff;
+}
+.btn-orange {
+    color: #fff;
+    background-color: #F05A00;
+}
+.btn-submit:hover {
+  background-color: #e05702;
+  color: wheat;
+}
+.main-block h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+}
+.main-block p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+}
+.dewalt {
+    max-width: 500px;
+}
+.btn-catalog {
+    color: #fff;
+    background-color: #F05A00;
+    font-size: 16px;
+    font-weight: 600;
+}
+.btn-user:hover, 
+.bg-orange:hover {
+     background-color: #e05702;
+     color: #fff;
+}
+.popular-goods h3 {
+    font-size: 40px;
+    font-weight: 600;
+}
+.card-text {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.card {
+    position: relative;
+}
+
+.new {
+    font-size: 14px;
+    background-color: black;
+    color: #fff;
+    position: absolute;
+    top: 20px;
+    padding: 3px 8px;
+}
+
+.goods-card {
+    max-width: 350px;
+}
+.btn-outline-warning {
+     border-radius: 10px 0;
+}
+
+.brands h3 {
+    font-size: 32px;
+    font-weight: 600;
+    color: #fff;
+}
+.news h4 {
+    font-size: 32px;
+    font-weight: 600;
+}
+.news p {
+    font-size: 16px;
+}
+.btn-subscribe {
+    font-size: 16px;
+    background-color: #F05A00;
+    color: #fff;
+    padding: 5px 15px;
+}
+.news-name p {
+    font-size: 20px;
+    font-weight: 600;
+}
+.news-name span {
+    font-size: 16px;
+}
+
+.foot p {
+    color: #fff;
+    font-size: 14px;
+    margin-left: 200px;
+}
+.foot a {
+    text-decoration: none;
+    color: #fff;
+}
+.foott p {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+.agreement {
+    margin-top: 30px;
+}
+.phone {
+    margin-top: 20px;
+}
+.social-media {
+    margin-left: 200px;
+}
+.ffoot a {
+    text-decoration: none;
+}
+.ffoot i {
+    margin-top: 30px;
+}
+.our-social-media {
+    padding-top: 30px;
+}
+.content img {
+    width: 400px;
+}
+.brand img {
+    width: 200px;
+}
