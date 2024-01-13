@@ -4,7 +4,7 @@ const object = {
 };
 
 // array can contain such
-const array = ["asdasd", "asd"];
+const array = ["Layla", "Drummer"];
 const arrayNumbers = [21, 213, 42];
 const arrayObjects = [
   {
@@ -38,11 +38,10 @@ function function2() {
 
 //
 
-let work = null
+let work = null;
 
-console.log(work);
+console.log(array[1]);
 
-
-// 
+//
 // homework
 // object can be created with 3 methods()
