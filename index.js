@@ -41,7 +41,6 @@ function function2() {
 let work = null;
 
 console.log(array[1]);
-
 //
 // homework
 // object can be created with 3 methods()
